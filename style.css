@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: darkblue;
+    font-size: 36px;
+}
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    color: black;
+}
+ul li a{
+    text-decoration: none;
+    
+}
+ul li a:hover{
+    color: brown;
+
+}
+.ayo{
+    margin-top:70px ;
+    font-size: 28px;
+}
+.ayo h1{
+    text-align: center;
+    
+}
+.ayo p{
+    font-size: 16px;
+    color: black;
+}
+.joy{
+    margin-top:40px ;
+    text-align: center;
+    font-size: 28px;
+}
+.tt{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 28px;
+}
+.form{
+    margin-top: 8px;
+    font-size: 16px;
+}
